@@ -7,7 +7,7 @@ University of Michigan
 
 # Week 1: What is a network?
 
-* [Notes](week_21_notes.ipynb)
+* [Notes](week_1_notes.ipynb)
     * Types of networks: undirected, directed, weighted, signed, multigraphs  
     * Edge attributes, node attributes  
     * Bipartite graphs  
